@@ -14,10 +14,9 @@
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
-<br>
-
 </div>
 
+<br>
 
 <h3 align="center">🤝 Collaboration Tools 🤝</h3>
 
@@ -27,9 +26,9 @@
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 
-<br>
-
 </div>
+
+<br>
 
 <h3 align="center">💻 IDE 💻</h3>
 <div align="center">
@@ -38,6 +37,7 @@
 
 </div>
 
+<br>
 
 <h3 align="center">💻 Project Together 💻</h3>
 <div align="center">
