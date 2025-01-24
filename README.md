@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-121011.svg?logo=github&logoColor=white)](#)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 
@@ -35,5 +35,14 @@
 <div align="center">
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+</div>
+
+
+<h3 align="center">💻 Project Together 💻</h3>
+<div align="center">
+
+[![INTRO](https://img.shields.io/badge/육조%2DIntro-6F6558.svg?style=for-the-badge&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
+
 
 </div>
