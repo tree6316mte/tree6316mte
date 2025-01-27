@@ -6,6 +6,15 @@
 </div>
 
 
+<h3 align="center">💻 IDE 💻</h3>
+<div align="center">
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+</div>
+
+<br>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -28,18 +37,10 @@
 
 </div>
 
-<br>
-
-<h3 align="center">💻 IDE 💻</h3>
-<div align="center">
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-</div>
 
 <br>
 
-<h3 align="center">💻 Project Together 💻</h3>
+<h3 align="center">🔨 Project (Link) 🔨</h3>
 <div align="center">
 
 [![INTRO](https://img.shields.io/badge/육조%2DIntro-6F6558.svg?style=for-the-badge&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
