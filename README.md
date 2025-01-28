@@ -40,10 +40,16 @@
 
 <br>
 
-<h3 align="center">🔨 Project (Link) 🔨</h3>
+<h3 align="center">🔨 Project Together(Link) 🔨</h3>
 <div align="center">
 
-[![INTRO](https://img.shields.io/badge/육조%2DIntro-6F6558.svg?style=for-the-badge&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
+[![INTRO](https://img.shields.io/badge/육조%2DINTRO-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
 
+</div>
+
+<h3 align="center">🔨 Project Alone(Link) 🔨</h3>
+<div align="center">
+
+[![INTRO](https://img.shields.io/badge/Sparta%20Dungeon%20Text%20RPG-6F6558.svg?style=flat-square&logo=&logoColor=)](#)
 
 </div>
