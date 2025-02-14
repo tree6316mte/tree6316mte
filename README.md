@@ -45,14 +45,8 @@
 
 [![INTRO](https://img.shields.io/badge/육조%2DINTRO-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
 
+[![INTRO](https://img.shields.io/badge/C%23%20기초다지조%2D디스%20이즈%20스파르타-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/fishking9112/Team_SpartaTextRPG)
+
 </div>
 
 <br>
-
-<h3 align="center">🔨 Project Alone(Link) 🔨</h3>
-<div align="center">
-
-[![INTRO](https://img.shields.io/badge/Sparta%20Dungeon%20Text%20RPG-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/SpartaDungeonTextRPG)
-
-
-</div>
