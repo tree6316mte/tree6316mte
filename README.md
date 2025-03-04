@@ -45,7 +45,9 @@
 
 [![INTRO](https://img.shields.io/badge/육조%2DINTRO-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
 
-[![INTRO](https://img.shields.io/badge/C%23%20기초다지조%2D디스%20이즈%20스파르타-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/fishking9112/Team_SpartaTextRPG)
+[![디스이즈스파르타](https://img.shields.io/badge/C%23%20기초다지조%2D디스%20이즈%20스파르타-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/fishking9112/Team_SpartaTextRPG)
+
+[![ChillGuy's의모험](https://img.shields.io/badge/Chill%20조%2DChill%20Guy's의%20모험-6F9958.svg?style=flat-square&logo=&logoColor=)](https://github.com/sungmars/Chill_Guy_Adventure)
 
 </div>
 
