@@ -32,8 +32,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-eeeeee.svg?logo=github&logoColor=000)](#)
-[![Miro](https://img.shields.io/badge/Miro-ffff00?logo=miro&logoColor=000)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-ffff00?logo=figma&logoColor=000)](#)
+[![Notion](https://img.shields.io/badge/Notion-0052CC?logo=notion&logoColor=fff)](#)
 
 </div>
 
