@@ -40,7 +40,7 @@
 
 <br>
 
-<h3 align="center">🔨 Project Together(Link) 🔨</h3>
+<h3 align="center">🔨 단기 프로젝트(Link) 🔨</h3>
 <div align="center">
 
 [![INTRO](https://img.shields.io/badge/육조%2DINTRO-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/alsoox/Group6_INTRO)
@@ -52,6 +52,13 @@
 [![DarkHallways](https://img.shields.io/badge/이파리%20조%2DDarkHallways-444444.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/DarkHallways)
 
 [![TabHeros](https://img.shields.io/badge/7일후에세상멸망%20조%2DTap%20Heroes-555598.svg?style=flat-square&logo=&logoColor=)](https://github.com/YujiHeo/TabHeros)
+
+</div>
+
+<br>
+
+<h3 align="center">🔨 장기 프로젝트(Link) 🔨</h3>
+<div align="center">
 
 [![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D오늘도%20용사가%20와서%20성벽을%20박살냈습니다-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
 
