@@ -62,6 +62,8 @@
 
 [![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D오늘도%20용사가%20와서%20성벽을%20박살냈습니다-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
 
+[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D게임%20PV%20유투브-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
+
 </div>
 
 <br>
