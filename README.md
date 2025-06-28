@@ -1,21 +1,35 @@
 <!--타이틀 부분-->
 <div align="center">
 
-</div>
-
 [![C#](/Project01.png)](https://github.com/tree6316mte/UnityFinal_Team21)
 
+</div>
 <h3 align="center">🏆 최종 프로젝트</h3>
 <div align="center">
 
-[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D오늘도%20용사가%20와서%20성벽을%20박살냈습니다-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
+[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D오늘도%20용사가%20와서%20성벽을%20박살냈습니다-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/fishking9112/UnityFinal_Team21)
 
-[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D게임%20PV%20유투브-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
+[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D게임%20PV%20유투브-055098.svg?style=flat-square&logo=&logoColor=)](https://www.youtube.com/watch?v=4DqVVG4eELk)
 
 </div>
 
 ---
 
+<br>
+
+<div align="center">
+
+[![C#](/Project02.png)](https://github.com/fishking9112/Team_SpartaTextRPG)
+
+</div>
+<h3 align="center">🥈 기초 & 심화 프로젝트</h3>
+<div align="center">
+
+[![디스이즈스파르타](https://img.shields.io/badge/C%23%20기초다지조%2D디스%20이즈%20스파르타-6F6558.svg?style=flat-square&logo=&logoColor=)](https://github.com/fishking9112/Team_SpartaTextRPG)
+
+</div>
+
+--- 
 
 
 <h3 align="center">💻 IDE 💻</h3>
@@ -72,9 +86,9 @@
 <h3 align="center">🔨 장기 프로젝트(Link) 🔨</h3>
 <div align="center">
 
-[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D오늘도%20용사가%20와서%20성벽을%20박살냈습니다-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
+[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D오늘도%20용사가%20와서%20성벽을%20박살냈습니다-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/fishking9112/UnityFinal_Team21)
 
-[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D게임%20PV%20유투브-055098.svg?style=flat-square&logo=&logoColor=)](https://github.com/tree6316mte/UnityFinal_Team21)
+[![더닝 크루거](https://img.shields.io/badge/더닝%20크루거%2D게임%20PV%20유투브-055098.svg?style=flat-square&logo=&logoColor=)](https://www.youtube.com/watch?v=4DqVVG4eELk)
 
 </div>
 
